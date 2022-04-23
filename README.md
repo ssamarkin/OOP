@@ -42,5 +42,19 @@
 | |     battery       |      string |
 
 
+|  Класс    |      Атрибуты    | Значения  |
+| ------------- |:-------------:| -----:|
+|   Детали заказа(Order_detail)  | orderID| int |
+|     |    ScooterID    | int |
+|  |     workerID |   int  |
+| |   clientID          |    int  |
+| |     start_time       |      time|
+| |     end_time    |      time |
+| |   start_place         |    string   |
+| |     finish_place       |      string |
+| |     defect   |      string |
+| |     defect_specification      |      string |
+| |     fine  |      string |
+
 
 

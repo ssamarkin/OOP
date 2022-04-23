@@ -1,6 +1,8 @@
 # OOP
-| Tables        | Are           | Cool  |
+| Класс      | Атрибуты         | Значения  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Сотрудник(Worker)    | workerID| $1600 |
+|     | last_name     |   $12 |
+| | first_name   |    $1 |
+| |   middle_name            |       |
+| |      tel         |       |

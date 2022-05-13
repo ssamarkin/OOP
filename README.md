@@ -42,6 +42,7 @@
 | |     battery       |      string |
 
 
+
 |  Класс    |      Атрибуты    | Значения  |
 | ------------- |:-------------:| -----:|
 |   Детали заказа(Order_detail)  | orderID| int |
@@ -56,5 +57,7 @@
 | |     defect_specification      |      string |
 | |     fine  |      string |
 
+
+![dd](https://user-images.githubusercontent.com/104257748/168382787-8442e7b1-3e57-4446-8629-f78f314eeb41.png)
 
 

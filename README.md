@@ -21,7 +21,7 @@
 
 |     |    last_name    | string |         Забронировать       |
 
-|  |     first_name  |   string  ||       Оплатить        |
+|  |     first_name  |   string  |      Оплатить        |
 
 | |   middle_name            |    string   |          Поставить на паузу     |
 

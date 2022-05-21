@@ -58,6 +58,6 @@
 | |     fine  |      string |
 
 
+![ыы](https://user-images.githubusercontent.com/104257748/169642230-722043b0-826a-42f3-af84-eb9182410904.png)
 
-![вв](https://user-images.githubusercontent.com/104257748/169099502-69e74298-cb03-4b73-9ef0-92960cd82a97.png)
 

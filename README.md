@@ -13,19 +13,18 @@
 
 
 
-|  Класс    |      Атрибуты    | Значения  |         Методы       |
+|  Класс    |      Атрибуты    | Значения  |Методы|
 
 | ------------- |:-------------:| -----:|  ------:  |
 
-|   КлиентClient)   | сlientID | int |        Сделать фото до        |
+|   КлиентClient)   | сlientID | int |        Сделать фото до |
 
-|     |    last_name    | string |         Забронировать       |
+|     |    last_name    | string |         Забронировать  |
 
-|  |     first_name  |   string  |      Оплатить        |
+|  |     first_name  |   string  |      Оплатить|
+| |   middle_name            |    string| Поставить на паузу |
 
-| |   middle_name            |    string   |          Поставить на паузу     |
-
-| |      tel         |      string |       Сделать фото после        |
+| |      tel         |      string |       Сделать фото после|
 
 
 
@@ -35,11 +34,11 @@
 |  Класс    |      Атрибуты    | Значения  |
 | ------------- |:-------------:| -----:|-----:  |
 |   Журнал техобслуживания(Maintenance_log)  | repairID | int |
-|     |    workerID    | int |
-|  |     scooterID |   int  |
-| |   take_time           |    string   |
-| |     recoil_time        |      string |
-| |     repair_work       |      string |
+|     |    workerID    | int |Показать стоимость|
+|  |     scooterID |   int  |Показать вид работы|
+| |   take_time           |    string   |Показать перечень неисправностей|
+| |     recoil_time        |      string |Показать дату выдачи|
+| |     repair_work       |      string |Запросить подпись|
 
 
 

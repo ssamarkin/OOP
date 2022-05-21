@@ -1,23 +1,30 @@
 # OOP
-| Класс      | Атрибуты         | Значения  |
-| ------------- |:-------------:| -----:|
-| Сотрудник(Worker)    | workerID| int |
-|     | last_name     |   string | 
+| Класс      | Атрибуты         | Значения  ||       Методы      |
+| ------------- |:-------------:| -----:||         Принять самокат в ремонт   |
+| Сотрудник(Worker)    | workerID| int ||               Посмотреть вид работы   |
+|     | last_name     |   string | |                      Посмотреть сроки работы|
 | | first_name   |    string|
-| |   middle_name            |    string   |
-| |      tel         |      string |
+| |   middle_name            |    string   ||         Подписать договор     |
+| |      tel         |      string ||          Отдать самокат        |
 
 
 
 
 
-|  Класс    |      Атрибуты    | Значения  |
-| ------------- |:-------------:| -----:|
-|   КлиентClient)   | сlientID | int |
-|     |    last_name    | string |
-|  |     first_name  |   string  |
-| |   middle_name            |    string   |
-| |      tel         |      string |
+|  Класс    |      Атрибуты    | Значения  ||          Отдать самокат        |
+
+| ------------- |:-------------:| -----:||          Отдать самокат        |
+
+|   КлиентClient)   | сlientID | int ||          Отдать самокат        |
+
+|     |    last_name    | string ||          Отдать самокат        |
+
+|  |     first_name  |   string  ||          Отдать самокат        |
+
+| |   middle_name            |    string   ||          Отдать самокат        |
+
+| |      tel         |      string ||          Отдать самокат        |
+
 
 
 
@@ -57,12 +64,12 @@
 | |     defect_specification      |      string |
 | |     fine  |      string |
 
-
+UML-диаграмма классов:
 ![пп](https://user-images.githubusercontent.com/104257748/169642702-475b2b2f-90fd-4fc9-918a-63f52dc15d84.png)
 
 
 
-
+Атрибуты и методы:
 ![ыы](https://user-images.githubusercontent.com/104257748/169642230-722043b0-826a-42f3-af84-eb9182410904.png)
 
 

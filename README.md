@@ -28,12 +28,12 @@
 
 |  Класс    |      Атрибуты    | Значения  |
 | ------------- |:-------------:| -----:|  -----:  |        
-|   Журнал техобслуживания(Maintenance_log)  | repairID | int |
-|     |    workerID    | int |Показать стоимость|
-|  |     scooterID |   int  |Показать вид работы|
-| |   take_time           |    string   |Показать перечень неисправностей|
-| |     recoil_time        |      string |Показать дату выдачи|
-| |     repair_work       |      string |Запросить подпись|
+|   Журнал техобслуживания(Maintenance_log)|        вв   |
+|     |    workerID    | int |        Сделать фото после    |
+|  |     scooterID |   int  |        Сделать фото после    |
+| |   take_time           |    string  |        Сделать фото после    |
+| |     recoil_time        |      string |        Сделать фото после    |
+| |     repair_work       |      string |        Сделать фото после    |
 
 
 

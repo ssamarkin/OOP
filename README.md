@@ -28,31 +28,32 @@
 
 |  Класс    |      Атрибуты    | Значения  |Методы|
 | ------------- |:-------------:| -----:|  -----:  |        
-|   Журнал техобслуживания(Maintenance_log)|        вв   |
-|     |    workerID    | int |        Сделать фото после    |
-|  |     scooterID |   int  |        Сделать фото после    |
-| |   take_time           |    string  |        Сделать фото после    |
-| |     recoil_time        |      string |        Сделать фото после    |
-| |     repair_work       |      string |        Сделать фото после    |
+|   Журнал техобслуживания(Maintenance_log)|       Показать стоимость  |
+|     |    workerID    | int |     Показать вид работы   |
+|  |     scooterID |   int  |       Показать перечень неисправностей    |
+| |   take_time           |    string  |          Показать дату выдачи |
+| |     recoil_time        |      string |     Запросить подпись   |
+| |     repair_work       |      string |         |
 
 
 
-|  Класс    |      Атрибуты    | Значения  |
-| ------------- |:-------------:| -----:|
-|  Самокат(Scooter)  | scootersID | int |
-|     |   belay_cost   | string |
-| |   сost_rental          |    string   |
-| |     battery       |      string |
+|  Класс    |      Атрибуты    | Значения  |Методы|
+| ------------- |:-------------:| -----:|  -----:  |    
+|  Самокат(Scooter)  | scootersID | int |     Предложить закрепить телефон     |
+|     |   belay_cost   | string |               Отследить по GPS    |
+| |   сost_rental          |    string   |           Показать заряд батареи   |
+| |     battery       |      string |           Показать скорость           |
+| |        |                        |           Показать режимы          |
 
 
 
-|  Класс    |      Атрибуты    | Значения  |
-| ------------- |:-------------:| -----:|
-|   Детали заказа(Order_detail)  | orderID| int |
-|     |    ScooterID    | int |
-|  |     workerID |   int  |
-| |   clientID          |    int  |
-| |     start_time       |      time|
+|  Класс    |      Атрибуты    | Значения  |Методы|
+| ------------- |:-------------:| -----:|  -----:  |  
+|   Детали заказа(Order_detail)  | orderID| int |Показать текущее время|
+|     |    ScooterID    | int |Предложить поставить на паузу|
+|  |     workerID |   int  |Показать текущую стоимость|
+| |   clientID          |    int  |Показать номер самоката|
+| |     start_time       |      time|Предложить промокод|
 | |     end_time    |      time |
 | |   start_place         |    string   |
 | |     finish_place       |      string |
